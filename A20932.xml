@@ -1,0 +1,354 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The beauty of holines A sermon, preached at the Court by Iohn Archibold, Dr. of Diuinitie, and Chaplaine in Ordinarie to his Majestie.</title>
+            <author>[Archibold, John].</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1621</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20932</idno>
+            <idno type="STC">STC 731</idno>
+            <idno type="STC">ESTC S100231</idno>
+            <idno type="EEBO-CITATION">99836077</idno>
+            <idno type="PROQUEST">99836077</idno>
+            <idno type="VID">321</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20932)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 321)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1475-1640 ; 867:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The beauty of holines A sermon, preached at the Court by Iohn Archibold, Dr. of Diuinitie, and Chaplaine in Ordinarie to his Majestie.</title>
+                  <author>[Archibold, John].</author>
+               </titleStmt>
+               <extent>[2], 19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Stansby for Nathaniel Butter, and are to bee sold at his shop neare S. Austines Gate, at the signe of the Pyde Bull,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1621.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Holiness --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:321:1"/>
+            <pb facs="tcp:321:1" rendition="simple:additions"/>
+            <p>THE BEAVTY OF HOLINES.</p>
+            <p>
+               <hi>A Sermon, preached</hi> at the Court <hi>By</hi> IOHN ARCHBOLD, <hi>D<hi rend="sup">r</hi>. of Diuinitie,</hi> And Chaplaine in Ordinarie <hi>to his Majeſtie.</hi>
+            </p>
+            <p>LONDON Printed by <hi>William Stansby</hi> for <hi>Nathaniel Butter,</hi> and are to bee ſold at his ſhop neare <hi>S. Auſtines</hi> Gate, at the ſigne of the Pyde Bull. 1621.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:321:2"/>
+            <pb n="1" facs="tcp:321:2"/>
+            <head>THE BEAVTY OF HOLINES.</head>
+            <epigraph>
+               <bibl>1. PET. 1. 16.</bibl>
+               <q>Bee yee holy; for I am holy.</q>
+            </epigraph>
+            <p>
+               <hi>
+                  <seg rend="decorInit">H</seg>Olineſſe,</hi> the delight of <hi>God,</hi> the beautie of <hi>Angels,</hi> the riches of the <hi>Saints,</hi> is here the <hi>Subiect</hi> of my <hi>Text.</hi> A <hi>Text</hi> which <hi>God</hi> himſelfe preacheth e<g ref="char:EOLhyphen"/>ternally to <hi>Angels,</hi> to <hi>Saints,</hi> to <hi>Men;</hi> to al vnderſtanding and rationall Creatures, capable of ſo diuine a per<g ref="char:EOLhyphen"/>fection, <hi>Bee yee holy; for I am holy.</hi>
+            </p>
+            <list>
+               <head>The parts of which Text are three.</head>
+               <item>1. Holineſſe in <hi>God. I am holy.</hi>
+               </item>
+               <pb n="2" facs="tcp:321:3"/>
+               <item>2. Holineſſe required in <hi>Man. Bee yee holy.</hi>
+               </item>
+               <item>3. Holineſſe therefore required in man, becauſe found in <hi>God. Bee yee holy, for I am holy.</hi>
+               </item>
+            </list>
+            <p>1. Holineſſe in <hi>God. I am holy.</hi>
+            </p>
+            <p>ALl excellencies and perfections whatſoeuer, may be diſtinguiſhed into two kindes, <hi>Natu<g ref="char:EOLhyphen"/>rall</hi> and <hi>Morall;</hi> as is manifeſt in theſe Creatures, which haue the one kinde and not the other. <hi>Such are wicked men,</hi> who may excell in ſome naturall perfections, of ſtrength, vnderſtanding, policy, beautie, and yet want all morall perfection of ver<g ref="char:EOLhyphen"/>tue, of grace, of <hi>holineſſe;</hi> But more manifeſt is this in <hi>Deuils,</hi> who excelling all men in naturall a<g ref="char:EOLhyphen"/>bilities of <hi>ſtrength, vnderſtanding, agilitie,</hi> and the like; yet retayne not one dram of goodneſſe, ver<g ref="char:EOLhyphen"/>tue, righteouſneſſe, truth, puritie, holineſſe, or a<g ref="char:EOLhyphen"/>ny other morall perfection, wherein they were at firſt created.</p>
+            <p>But are iuſtly called <hi>immundi ſpiritus, vncleane</hi>
+               <note place="margin">Tho. Summae, p. 1. q. 63. a. 2. in c.</note> 
+               <hi>ſpirits,</hi> becauſe howſoeuer they are not vncleane <hi>ſecundùm affectum,</hi> they are not in themſelues af<g ref="char:EOLhyphen"/>fected with carnall vncleanneſſe, being ſpirituall natures; yet they are vncleane <hi>ſecundùm reatum,</hi> they are certainely moſt guiltie of all carnall impu<g ref="char:EOLhyphen"/>ritie;<note place="margin">Peucer. de diui<g ref="char:EOLhyphen"/>nat. p. 15.</note> it being one of their ſpeciall imployments, and chiefeſt delights to prouoke and ſtirre vp mankind, to all fleſhly, and libidinous pollutions.</p>
+            <p>But in oppoſition to them, <hi>Our God is a most pure and chaste Spirit.</hi>
+            </p>
+            <pb n="3" facs="tcp:321:3"/>
+            <p>For as in the Creatures, ſo alſo in <hi>God, per viam eminentiae,</hi> we doe conceiue two kindes of perfe<g ref="char:EOLhyphen"/>ctions and excellencies; the one <hi>Naturall,</hi> and the other <hi>Morall.</hi>
+            </p>
+            <p>When we thinke of <hi>Gods</hi> naturall perfections, we conceiue in our thoughts an infinite light, an infinite life, an infinite power, an infinite wiſe<g ref="char:EOLhyphen"/>dome, an infinite beautie, an infinite ſweetneſſe, an infinite riches, an infinite bliſſe, an infinite glo<g ref="char:EOLhyphen"/>ry and Maieſtie.</p>
+            <p>But beſides theſe naturall perfections, we con<g ref="char:EOLhyphen"/>ceiue alſo in <hi>God</hi> many morall perfections of Ho<g ref="char:EOLhyphen"/>lineſſe, of Puritie, of Righteouſneſſe, of Truth, of Goodneſſe, of Clemency, of Hatred of all ſinne and vncleanneſſe.</p>
+            <p>All which perfections, whether naturall or mo<g ref="char:EOLhyphen"/>rall, though we cannot conceiue them otherwiſe, then as ſo many various, and diſtinct qualities, or habits of <hi>God:</hi> yet indeed are one ſimple, abſo<g ref="char:EOLhyphen"/>lute, and indiuided Eſſence, which is <hi>God him<g ref="char:EOLhyphen"/>ſelfe.</hi>
+            </p>
+            <p>It is then in this <hi>Morall</hi> attribute of Holineſſe, as in all other perfections of <hi>God. God</hi> is almigh<g ref="char:EOLhyphen"/>tie, <hi>wiſe, good, iust, holy,</hi> not by any qualitie ſu<g ref="char:EOLhyphen"/>peradded to his Eſſence: But his might, his wiſe<g ref="char:EOLhyphen"/>dome, his goodneſſe, his iuſtice, his holineſſe, is his very Eſſence. Nay, all theſe are himſelfe, ac<g ref="char:EOLhyphen"/>cording to the Rule, <hi>In Deo non differt quod eſt, &amp;</hi>
+               <note place="margin">Summ. p. 1. q. 29. a. 4. ad. 1.</note> 
+               <hi>quo eſt.</hi> As equally then, and neceſſarily as <hi>God</hi> may ſay of himſelfe, <hi>I am,</hi> ſo equally and neceſſa<g ref="char:EOLhyphen"/>rily<note place="margin">Exod. 3. 14.</note> for truth may hee ſay of himſelfe, as here, <hi>I am holy.</hi>
+            </p>
+            <pb n="4" facs="tcp:321:4"/>
+            <p>A truth which may bee cleared by two reaſons taken from the very Nature of <hi>Holineſſe.</hi>
+            </p>
+            <p>
+               <hi>For 1. What is Holineſſe,</hi> but a rectitude in af<g ref="char:EOLhyphen"/>fection, in action conformable in all points to the will of <hi>God,</hi> as to the eternall Lawe, and Rule of Holineſſe?</p>
+            <p>And what is the will of <hi>God, but his eſſence?</hi>
+            </p>
+            <p>As eſſentially then doth <hi>God</hi> in affection, in a<g ref="char:EOLhyphen"/>ction will that which is Holy, as the Rule of all Holineſſe, his owne will, is intrinſecall, and eſſen<g ref="char:EOLhyphen"/>tiall to him.</p>
+            <p>And as eſſentially doth he alſo hate all Sinne, and Impuritie; the Nature whereof is, to be re<g ref="char:EOLhyphen"/>pugnant to his will, <hi>non vt forma formae, ſed vt inordinatum, &amp; diſtortum ſuae regulae &amp; menſurae,</hi> not as one forme to another, but as an aberration, and obliquitie, ſwaruing from the ſtraight and e<g ref="char:EOLhyphen"/>uen Line, and Leuell of his will.</p>
+            <p>As oppoſite then as obliquitie is to rectitude, diſconformitie to conformitie, deformitie to beau<g ref="char:EOLhyphen"/>tie, darkeneſſe to light, filthineſſe to puritie, death to life, euill to good; So oppoſite, and hatefull to the holineſſe of <hi>God</hi> is the impuritie of all Sinne. <hi>Thou art of pure eyes and canst not ſee euill; thou</hi>
+               <note place="margin">Hab. 1. 13.</note> 
+               <hi>canſt not behold wickedneſſe.</hi>
+            </p>
+            <p n="2">2. <hi>What is Holineſſe,</hi> but Puritie? and <hi>What is Puritie,</hi> but a freeneſſe from all contagion, and touch of inferiour things? For as that Gold is impure, that is any whit embaſed with droſſe, and as a beautifull face, or pure white garment is de<g ref="char:EOLhyphen"/>filed with aſperſion of dyrt or filth; So the Soule
+<pb n="5" facs="tcp:321:4"/> becomes impure, and vnholy, <hi>ex contactu inferio<g ref="char:EOLhyphen"/>rum,</hi> by inordinate adherence, and affection to the baſe and inferiour things of the World: A<g ref="char:EOLhyphen"/>gaine, it becomes pure, and holy <hi>ex contactu ſupe<g ref="char:EOLhyphen"/>riorum,</hi> by eleuating and raiſing the affection and loue thereof to things aboue, to things heauenly and diuine.</p>
+            <p>But aboue all things <hi>God</hi> is moſt high, moſt noble, moſt pure, moſt heauenly. And therefore the puritie and holineſſe of all Spirits conſiſteth in their adherence by loue and affection to <hi>God,</hi> in their coniunction and vnion with him.</p>
+            <p>Now who more adherent to <hi>God</hi> by loue and affection then himſelfe? Who more conioyned to him by nature and eſſence then himſelfe? As eſſentially then as <hi>God</hi> is adherent, and conioy<g ref="char:EOLhyphen"/>ned to himſelfe, ſo eſſentiall to him is his Holi<g ref="char:EOLhyphen"/>neſſe; and as neceſſarily as he loues himſelfe, who onely can loue himſelfe, <hi>quantum eſt amabilis,</hi> as far as he is worthie loue, and that is infinitely, ſo ne<g ref="char:EOLhyphen"/>ceſſarily is He Holy.</p>
+            <p>And thus this truth runnes cleare, That as e<g ref="char:EOLhyphen"/>qually and neceſſarily as <hi>God</hi> may ſay of himſelfe, <hi>I am;</hi> ſo equally and neceſſarily for truth, may he ſay of himſelfe, as here, <hi>I am Holie.</hi>
+            </p>
+            <p>
+               <hi>But Our God,</hi> that is holy eſſentially in himſelfe, is alſo Holy <hi>Cauſaliter,</hi> the Originall and Foun<g ref="char:EOLhyphen"/>taine of all Holineſſe in the Creatures. It is hee that infuſeth all holineſſe into his Angels, and Saints. Vnto whoſe Sanctification the <hi>three Per<g ref="char:EOLhyphen"/>ſons</hi> doe iointly concurre, <hi>The Father as the Au<g ref="char:EOLhyphen"/>thor
+<pb n="6" facs="tcp:321:5"/> and Fountain of holineſſe; The Sonne as the Type and patterne of holineſſe; The holy Ghoſt as the im<g ref="char:EOLhyphen"/>mediate ſtamper of this impreſsion of Holineſſe in the Spirits of Men and Angels.</hi>
+            </p>
+            <p>In a great myſterie of which holy <hi>Trinitie the Seraphims crie one to another, Sanctus, Sanctus, San<g ref="char:EOLhyphen"/>ctus,</hi>
+               <note place="margin">Iſa. 6. 3.</note> 
+               <hi>Holie, Holie, Holie, Lord God of Hoasts, the whole World is full of thy glorie.</hi>
+            </p>
+            <p>But vpon this, that <hi>God</hi> is holy eſſentially in himſelfe; and the cauſe of all holineſſe in the crea<g ref="char:EOLhyphen"/>tures, it followeth thirdly that <hi>He is holy Eminen<g ref="char:EOLhyphen"/>ter,</hi> eminently, and incomparably Holy before, and aboue all Creatures. For as all the power, and wiſedome, and beautie, and excellencie of all the Creatures, compared to the power, and wiſdome, and beautie, and excellencie of <hi>God,</hi> is as nothing; So the Holineſſe and puritie of all Creatures ca<g ref="char:EOLhyphen"/>pable of ſo diuine a perfection, compared to the Holineſſe of <hi>God,</hi> is as nothing, or rather it is meere impuritie and vncleanneſſe. <hi>Behold he found</hi>
+               <note place="margin">Iob 4. 18.</note> 
+               <hi>no puritie in his ſeruants, and layd folly vpon his An<g ref="char:EOLhyphen"/>gels.</hi>
+            </p>
+            <p>It is an <hi>Aphoriſme of Diuines, Totum vniuer<g ref="char:EOLhyphen"/>ſum vnà cum Deo ſumptum, non eſſe quid praestantius Deo Solo:</hi> That the whole world conſidered to<g ref="char:EOLhyphen"/>gether with <hi>God,</hi> is no whit more excellent then <hi>God</hi> conſidered ſole and alone, both becauſe the whole World doth not adde <hi>aliquid notabile Deo,</hi> makes no notable addition to <hi>God,</hi> no more then one ſmall ſand of duſt addeth any thing to the vaſtneſſe of the whole earth, or one drop of water
+<pb n="7" facs="tcp:321:5"/> to the infinite abundance of the <hi>Sea:</hi> As alſo be<g ref="char:EOLhyphen"/>cauſe whatſoeuer excellencie <hi>God</hi> produceth in the Creatures, it is already contayned more eminent<g ref="char:EOLhyphen"/>ly, and the ſame in <hi>God,</hi> and ſo addeth nothing to <hi>God. Therefore our Sauiour, There is none good,</hi>
+               <note place="margin">Matth. 19. 17.</note> 
+               <hi>but one, euen God.</hi> And our Church in her higheſt ſtraine of deuotion, immediately vpon receiuing the <hi>bleſſed Sacrament,</hi> ſings vnto <hi>God,</hi> as the anci<g ref="char:EOLhyphen"/>ent Church did (and both haue warrant for it.) <hi>Tu ſolus Sanctus, tu ſolus Dominus: Thou onely art</hi>
+               <note place="margin">Reuel. 15. 4.</note> 
+               <hi>holy, thou onely art the Lord; Thou onely, O Christ, art most high, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Hitherto the firſt part of my Text, Holineſſe in God. I am holy.</hi>
+            </p>
+            <p>
+               <hi>The ſecond followes, Holineſſe required in Man. Bee yee holy.</hi>
+            </p>
+            <p>
+               <hi>Holineſſe</hi> in this Text is attributed to <hi>God,</hi> to <hi>Man;</hi> but in a farre different manner: <hi>To God a<g ref="char:EOLhyphen"/>ſcribed, I am: To Man preſcribed, Bee yee.</hi>
+            </p>
+            <p>Whence firſt note the vaſt difference betweene the increated <hi>Holineſſe</hi> of <hi>God;</hi> and the created holineſſe of <hi>Angels,</hi> and <hi>Men.</hi>
+            </p>
+            <p>Firſt, <hi>God</hi> is eſſentially holy, and by nature as before: <hi>I am holy. Men</hi> and <hi>Angels</hi> are made holy by qualities and graces <hi>acceſſorie,</hi> and ſuperadded to their eſſence. <hi>I am. Bee yee.</hi>
+            </p>
+            <p>Secondly, it was neuer ſaid to <hi>God, Be thou holy.</hi> His Holineſſe, as it had no beginning, ſo is inca<g ref="char:EOLhyphen"/>pable of increaſe, of diminution, of end. Hee re<g ref="char:EOLhyphen"/>maynes in an eternall and immutable conſiſtence of holineſſe. <hi>I am holy.</hi> But the holineſſe of <hi>Men</hi>
+               <pb n="8" facs="tcp:321:6"/> and <hi>Angels,</hi> as it hath beginning, ſo is capable of increaſe, of diminution; I may alſo ſay, of end. For that the <hi>Elect,</hi> both <hi>Angels</hi> and <hi>Men,</hi> fall not either finally or totally from that grace, and holi<g ref="char:EOLhyphen"/>neſſe, wherein they are ſtated, is not from them<g ref="char:EOLhyphen"/>ſelues, or from the nature of any created holineſſe, which in it ſelfe is apt to defect, and finally to de<g ref="char:EOLhyphen"/>cay; but from that ſtabilitie, and confirmation which they haue from without in <hi>Christ.</hi> Vnto <hi>Men</hi> therefore it is here ſaid; <hi>Yee that are as yet vn<g ref="char:EOLhyphen"/>holy, Bee yee holy: Yee that haue attayned any degrees</hi> of holineſſe bee yee more holy: <hi>Hee that is righ<g ref="char:EOLhyphen"/>teous,</hi>
+               <note place="margin">Reuel. 22. 11.</note> 
+               <hi>let him bee righteous ſtill, and hee that is holy, let him bee holy ſtill. I am. Bee yee.</hi>
+            </p>
+            <p>Thirdly, <hi>God</hi> is holy by and of himſelfe inde<g ref="char:EOLhyphen"/>pendently. Men are holy deriuedly, and by par<g ref="char:EOLhyphen"/>ticipation from <hi>God. I am by and of my ſelfe, Bee yee, by and from mee. I am. Bee yee.</hi>
+            </p>
+            <p>But the ſecond and moſt remarkable point of difference is, betweene this of <hi>Holineſſe</hi> and other attributes of <hi>God:</hi> for there are many other di<g ref="char:EOLhyphen"/>uine perfections of which <hi>God</hi> ſaith, <hi>I am;</hi> and yet of them doth no where ſay to vs, <hi>Bee yee;</hi> as, <hi>I am Infinite, Eternall, Omnipotent, Wiſe, Glorious, Great:</hi> But of none of them doth he ſay any where to vs, <hi>Bee yee thus,</hi> or <hi>thus.</hi>
+            </p>
+            <p>The reaſon whereof is, becauſe not in his Power, not in his Wiſedome, not in his Know<g ref="char:EOLhyphen"/>ledge, not in his Greatneſſe, not in his Glorie: but in his <hi>Holineſſe,</hi> but in his <hi>Puritie,</hi> doth he propoſe himſelfe as a Patterne, or Sampler, to be imitated
+<pb n="9" facs="tcp:321:6"/> and followed of vs. So that as <hi>Bernard</hi> once, <hi>Po<g ref="char:EOLhyphen"/>testas</hi>
+               <note place="margin">Serm. 1. in die Natal. Domini.</note> 
+               <hi>ſubiectionem, Maieſtas admirationem, neutra imitationem;</hi> Other excellencies of <hi>God,</hi> may ſome of them challenge from vs <hi>Subiection,</hi> ſome Ado<g ref="char:EOLhyphen"/>ration and Reuerence, others Admiration and A<g ref="char:EOLhyphen"/>ſtoniſhment: None of them imitation, but this of his Holineſſe. Of this Holineſſe <hi>God</hi> no ſooner ſaith, <hi>I am,</hi> but hee ſeconds it immediately, with, <hi>Bee yee.</hi>
+            </p>
+            <p>And this is further confirmed by a ſecond rea<g ref="char:EOLhyphen"/>ſon. There are in other Creatures many <hi>Vestigia,</hi> foot-ſteps and impreſſions of other attributes of <hi>God,</hi> of his <hi>Greatneſſe,</hi> of his <hi>Wiſedome,</hi> of his <hi>Power,</hi> of his <hi>Glory,</hi> and yet they are not there<g ref="char:EOLhyphen"/>fore ſaid to be made <hi>ad Imaginem,</hi> after the Image of <hi>God:</hi> It is the prerogatiue onely of rationall Creatures, <hi>Men,</hi> and <hi>Angels,</hi> to be made after <hi>Gods Image,</hi> in that they were made capable of reſem<g ref="char:EOLhyphen"/>bling and expreſſing <hi>God</hi> in this <hi>Morall</hi> perfection of Holineſſe. Holineſſe being no other then that glorious <hi>Image of God,</hi> which at firſt he ſtamped in the <hi>Soule of man</hi> in our creation, and which be<g ref="char:EOLhyphen"/>ing after defaced by <hi>Sinne,</hi> is daily renued in vs by <hi>Grace,</hi> and ſhall bee fully reſtored in vs by <hi>Glorie. We all behold, as in a mirrour, the glorie of the Lord</hi>
+               <note place="margin">2. Cor. 3. 18.</note> 
+               <hi>with open face, and are changed into the ſame Image from glorie to glorie, as by the Spirit of the Lord.</hi>
+            </p>
+            <p>Bee it then the point in queſtion, <hi>What that is wherein a man may aſcend higheſt, and approch nea<g ref="char:EOLhyphen"/>rest to the ſimilitude and likeneſſe of God: and I find the competition ſtands chiefly betweene theſe three, Greatneſſe, Knowledge, Holineſſe.</hi>
+            </p>
+            <p n="1">
+               <pb n="10" facs="tcp:321:7"/>1. The prophane World is all for <hi>Greatneſſe.</hi> This they affect, this they applaude: affect in themſelues, applaud in others. But where great<g ref="char:EOLhyphen"/>neſſe is not ſubſeruient to Holineſſe, one dram of Holineſſe is to bee preferred before a World of <hi>Greatneſſe,</hi> becauſe (as before) <hi>God</hi> may caſt what beames of his greatneſſe he will, and vpon whom he will; but he requireth vs to endeauour to pat<g ref="char:EOLhyphen"/>terne him, not in his <hi>Greatneſſe,</hi> but in his Holi<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>
+               <hi>The Philoſophers, as Caietan deliuereth</hi> their<note place="margin">Com. in 1. Ioh. 4. 8.</note> iudgement, they are all for <hi>Knowledge. Penes ſcire maximè attenditur ſimilitudo hominum ad Deum. Knowledge</hi> is that which maketh men come nee<g ref="char:EOLhyphen"/>reſt to the Similitude of <hi>God:</hi> iuſt as the Tempter to our firſt Parents, <hi>Eritis Sicut Dij Scientes, Yee ſhall be as Gods knowing good and euill. But the</hi>
+               <note place="margin">Gen. 3. 5.</note> 
+               <hi>Scriptures giue Sentence for Holineſſe; for by it, and by it alone, wee are made <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Parta<g ref="char:EOLhyphen"/>kers</hi>
+               <note place="margin">2. Pet. 1. 4.</note> 
+               <hi>of the diuine nature, not by being transformed in<g ref="char:EOLhyphen"/>to identitie of ſubstance with God, but by being con<g ref="char:EOLhyphen"/>formed to ſimilitude of like affection with God. Be<g ref="char:EOLhyphen"/>ing holy as he is holy. I am. Be yee.</hi>
+            </p>
+            <p>
+               <hi>Hitherto the ſecond part; Holineſſe required in man. Be yee holy. Now followes the third part. Ho<g ref="char:EOLhyphen"/>lineſſe therefore required in man, becauſe found in God. Be yee holy, for I am holy.</hi>
+            </p>
+            <p>For looke by how many titles of <hi>Relation</hi> wee are Sacred and holy to <hi>God,</hi> by ſo many ties of Obligation are we bound to be holy as <hi>God.</hi> For what is once conſecrate to <hi>God,</hi> muſt not bee pro<g ref="char:EOLhyphen"/>phaned;
+<pb n="11" facs="tcp:321:7"/> and Holineſſe in relation, requires Holi<g ref="char:EOLhyphen"/>neſſe in qualitie.</p>
+            <p>
+               <hi>Now</hi> we are Sacred and Holy to <hi>God</hi> in a three<g ref="char:EOLhyphen"/>fold <hi>Relation:</hi> firſt, <hi>of Nature as Men:</hi> ſecondly, <hi>of Grace as men Regenerate:</hi> thirdly, <hi>of Glorie,</hi> as they who ſhall hereafter bee <hi>Bleſſed Saints in heauen.</hi>
+            </p>
+            <p>
+               <hi>By nature as Men,</hi> we were created for <hi>God,</hi> and made capable of communion with him: <hi>By Grace, as Men Regenerate,</hi> we are actually entered into communion with him, though but in part, as yet and a farre off: <hi>By Glorie,</hi> we ſhall with the bleſ<g ref="char:EOLhyphen"/>ſed <hi>Saints</hi> be admitted to full Communion, or ra<g ref="char:EOLhyphen"/>ther vnion and conjunction with <hi>God.</hi>
+            </p>
+            <p>And the rule is generall, <hi>The neerer Communi<g ref="char:EOLhyphen"/>on we haue with God, the more Conformitie required in vs vnto God: for what fellowſhip hath righteouſ<g ref="char:EOLhyphen"/>neſſe</hi>
+               <note place="margin">2. Cor. 6. 14.</note> 
+               <hi>with vnrighteouſneſſe, and what communion hath light with darkeneſſe? Wherefore come out from among them, and ſeparate your ſelues, and touch none vncleane thing. Be ye holy, for I am holy.</hi>
+            </p>
+            <p n="1">1. <hi>Wee</hi> are Sacred to <hi>God</hi> in <hi>the generall Relati<g ref="char:EOLhyphen"/>on</hi> of <hi>Nature,</hi> as <hi>Men:</hi> for <hi>God</hi> paſſing by all other Creatures, though neuer ſo great, neuer ſo glori<g ref="char:EOLhyphen"/>ous, did from among them all, call out vnto him<g ref="char:EOLhyphen"/>ſelfe Men and Angels in the day of their Creati<g ref="char:EOLhyphen"/>on, and by giuing them vnderſtanding, and ratio<g ref="char:EOLhyphen"/>nall Spirits, made them capable of the holineſſe to <hi>glorifie God</hi> in this life, and of the happineſſe to be glorified of him in the life to come. O bleſ<g ref="char:EOLhyphen"/>ſed Prerogatiue conferred on vs men aboue all vi<g ref="char:EOLhyphen"/>ſible
+<pb n="12" facs="tcp:321:8"/> Creatures in heauen or earth.</p>
+            <p>And indeed thoſe other Creatures were made for the vſe of Man: But man for the immediate vſe and ſeruice of <hi>God.</hi> And therefore other crea<g ref="char:EOLhyphen"/>tures may praiſe <hi>God</hi> in their kinde, that is, <hi>paſsiuè &amp; ipſa ſuâ ſpecie,</hi> onely paſſiuely, and becauſe in their natures appeare certaine foot-ſteps and im<g ref="char:EOLhyphen"/>preſſions of <hi>Gods</hi> power and wiſedome; for ſo <hi>The heauens declare the glorie of God, and the Earth</hi>
+               <note place="margin">Pſal. 19. 1.</note> 
+               <hi>ſheweth forth his handy-worke.</hi> But men beeing in the day of their creation indued with thoſe three faculties, of Vnderſtanding, Memory, Will, (a cre<g ref="char:EOLhyphen"/>ated Trinitie the image of the increated) were made capable of the holineſſe and happineſſe to praiſe <hi>God actiuè,</hi> actiuely, vnderſtandingly, ra<g ref="char:EOLhyphen"/>tionally, freely, affectionately.</p>
+            <p>So that howſoeuer all Creatures in their crea<g ref="char:EOLhyphen"/>tion did alike come forth from God as their firſt Originall; yet not all, but onely Men and Angells were in their creation made capable of a bleſſed returne to God, as their laſt end and happineſſe. Other Creatures when they are come forth from God, they reſt ſatisfied and content with thoſe particular degrees of perfection they receyued from God; but men and Angels reſt not, but re<g ref="char:EOLhyphen"/>maine vnſatisfied, till they returne to that fulneſſe and vniuerſalitie of good that is onely to be found in God.</p>
+            <p>And if we be men, we muſt know that in our very nature, as men (for, <hi>Naturalia ſubſtrata ſunt gratiae</hi>) we were made for the Holineſſe, to deſire,
+<pb n="13" facs="tcp:321:8"/> to affect, to ſeeke the face of God; and for the Happineſſe, to ſee his face, to find him, to enioy him, and to ſtand about his Throne for euer.</p>
+            <p>But wee are ſacred to God by a ſecond and more neare <hi>Relation</hi> of <hi>grace:</hi> for as God by crea<g ref="char:EOLhyphen"/>ting vs capable of <hi>grace,</hi> aduanced vs aboue all o<g ref="char:EOLhyphen"/>ther Creatures; ſo by actuall infuſing <hi>grace</hi> into vs, hath aduanced vs aboue all other men; ſo farre that in the phraſe of Saint <hi>Paul,</hi> they which are no more then men by meere nature, they ſtand as yet a long farre off; but when from nature they are ad<g ref="char:EOLhyphen"/>uanced to <hi>grace,</hi> then yee which were a-farre off, <hi>facti eſtis propè,</hi> are made nigh. Before <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, no<g ref="char:EOLhyphen"/>thing<note place="margin">Epheſ. 2. 13.</note> to doe with God, meere Forreiners and A<g ref="char:EOLhyphen"/>liens; but now Citizens with the <hi>Saints,</hi> admit<g ref="char:EOLhyphen"/>ted to bee of the family and houſe of God: yea made the very Houſe and Temple of God, where<g ref="char:EOLhyphen"/>in he dwelleth not as euery where, <hi>per Diuinitatis praeſentiam,</hi> by the preſence of his Deitie, but as <hi>Auguſtine</hi> well expreſſeth it, <hi>Per inhabitationis gra<g ref="char:EOLhyphen"/>tiam,</hi>
+               <note place="margin">Epiſt. 57. ad Dardanum.</note> by the ſpeciall grace of inhabitation, ſo, as no where elſe, but in the ſpirits of his Elect.</p>
+            <p>And if to be admitted into the Houſe of God, be ſo binding an obligation of Holineſſe, for <hi>Do<g ref="char:EOLhyphen"/>mum</hi>
+               <note place="margin">Pſal. 92. 5.</note> 
+               <hi>tuam decet ſanctitudo Domine: Holineſſe be<g ref="char:EOLhyphen"/>commeth thine Houſe, O Lord, for euer:</hi> What an enforcing Obligation to Holineſſe is it, to be the very Houſe, Habitation, and Temple of God, wherein hee will reſt and take vp his Manſion for euer? Yee are <hi>the Temple of the liuing God, and I</hi>
+               <note place="margin">2. Cor. 6. 16.</note> 
+               <hi>will dwell among them, and walke there.</hi> Whereup<g ref="char:EOLhyphen"/>on
+<pb n="14" facs="tcp:321:9"/> what followes? <hi>Seeing then that wee haue ſuch</hi>
+               <note place="margin">Cap. 7. 1.</note> 
+               <hi>promiſes, dearely beloued, let vs cleanſe our ſelues from all filthineſſe of the fleſh, and ſpirit; and grow vp vnto full holineſſe, in the feare of God. Leſt other<g ref="char:EOLhyphen"/>wiſe we grieue the holy Spirit of God, and cauſe him,</hi>
+               <note place="margin">Epheſ. 4. 30.</note> 
+               <hi>who cannot depart from vs in eſſence and power,</hi> yet to depart from vs both <hi>affectu,</hi> and <hi>effectu; affectu,</hi> becauſe he cannot but hate ſo naſty an habitation: and <hi>effectu,</hi> becauſe he will not infuſe the precious ointment of his ſanctifying grace, into ſo impure a veſſell.</p>
+            <p>
+               <hi>In malevolam animam non introibit Sapientia;</hi>
+               <note place="margin">Wiſed. 1. 4.</note> 
+               <hi>Wiſedome cannot enter into a wicked ſoule, nor dwell in the body ſubiect to ſinne.</hi>
+            </p>
+            <p>But if the ſecond relation of grace bee ſo ſtrong a tie to Holineſſe, what thinke you of the third, of <hi>Glorie?</hi>
+            </p>
+            <p>
+               <hi>By Grace, facti ſumus propè,</hi> we were made neare vnto <hi>God,</hi> but by <hi>Glorie,</hi> we ſhall be not neare one<g ref="char:EOLhyphen"/>ly by bleſſed Communion, but one with <hi>God</hi> by immediate vnion and coniunction.</p>
+            <p>
+               <hi>God</hi> being the Fountayne of Holineſſe, the <hi>Saints</hi> are more or leſſe holy, according as they doe more or leſſe approach, and draw neare to God.</p>
+            <p>As the Moone hath her encreaſes and decreaſes of light differently, according as ſhee ſtandeth in different aſpect to the Sunne from whom ſhee bor<g ref="char:EOLhyphen"/>roweth her light.</p>
+            <p>Now, the <hi>Saints</hi> on earth are holy but in part, becauſe though God doe by gracious aſpect looke
+<pb n="15" facs="tcp:321:9"/> on them in the face of Ieſus Chriſt, yet they being abſent from God, cannot anſwerably reſpect, and looke backe vnto him. But the bleſſed Angels and Saints are perfectly Holy, becauſe both God by gracious aſpect looketh on them, &amp; they alſo doe againe fully reſpect and looke backe vnto God, being immediately ioyned to that wel-head and fountaine of holineſſe in him: and being re<g ref="char:EOLhyphen"/>ceiued into that <hi>Sanctu<g ref="char:cmbAbbrStroke">̄</g> Sanctoru<g ref="char:cmbAbbrStroke">̄</g>,</hi> that Holy of Ho<g ref="char:EOLhyphen"/>lies, into which none vncleane thing ſhall enter.<note place="margin">Reuel. 21. 5. vl<g ref="char:EOLhyphen"/>timo.</note>
+            </p>
+            <p>In the meane time, the hope of ſo neere a com<g ref="char:EOLhyphen"/>munion with God, to ſee him as he is, muſt wake in vs an indeuour of ſo neere conformitie to God, to be pure as he is pure.</p>
+            <p>
+               <hi>We know that when he ſhall appeare, we ſhall bee</hi>
+               <note place="margin">1. Iohn 3. 3.</note> 
+               <hi>like him, for we ſhall ſee him as he is: And euerie man that hath this hope in him, purifieth him ſelfe euen as he is pure.</hi> For the Rule is firme, <hi>Without holineſſe</hi>
+               <note place="margin">Heb. 13. 14. Matth. 5. 8.</note> 
+               <hi>no man ſhall ſee God,</hi> and <hi>Bleſſed are the pure in heart, for they ſhall ſee God. Quis enim eloqui valeat, quàm purum eſſe oporteat cor illud, quod diuinae, increatae<g ref="char:EOLhyphen"/>que</hi>
+               <note place="margin">Carthuſ. in loc.</note> 
+               <hi>luci immediatè, atque beatificè vnietur:</hi> For who can expreſſe, how pure that heart ought to be, that ſhall be immediately and beatifically v<g ref="char:EOLhyphen"/>nited to that diuine and increated light?</p>
+            <p>And thus you haue the third part of my Text, <hi>Holineſſe required in man, becauſe found in God. Be ye holy, for I am holy.</hi>
+            </p>
+            <p>And now (for Application) Who am I that in ſo great a preſence doe pleade the cauſe of Holi<g ref="char:EOLhyphen"/>neſſe, and aduance it aboue all Greatneſſe? How
+<pb n="16" facs="tcp:321:10"/> vnworthy I, to hold forth before you, as in a glaſſe, the luſter of that <hi>Beautie</hi> which were it diſcerna<g ref="char:EOLhyphen"/>ble with mortall eyes, <hi>Mirabiles ſui amores excita<g ref="char:EOLhyphen"/>ret;</hi> would draw all hearts and affections to the liking and loue thereof? yet euen my weake and rude delineation thereof, hath preſented thus much to your view: That Holineſſe hath in it a <hi>Beautie,</hi> though ſpirituall, yet, 1. <hi>Pleaſing to God. 2. Glorious in the ſight of his Angels and Saints. 3. Venerable euen in the eyes of the wicked. 4. Com<g ref="char:EOLhyphen"/>fortable, and full of contentation to our owne Soules.</hi>
+            </p>
+            <p n="1">1. Pleaſing and acceptable to God, euen as the liuely Image, and Character of his owne diuine nature: and therefore as a Father delighteth to looke vpon the expreſſe and viue image of him<g ref="char:EOLhyphen"/>ſelfe in his Sonne: ſo <hi>God</hi> our heauenly Father doth with greateſt complacence, behold the I<g ref="char:EOLhyphen"/>mage and reſemblance of his owne increated Ho<g ref="char:EOLhyphen"/>lineſſe, in the created Holineſſe of Men &amp; Angels. Euen as an Heathen could bring in God, ſaying;</p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.<note place="margin">Hierodes.</note>
+            </q>
+            <p>Heauen it ſelfe the place of mine owne Reſidence, yeeldeth mee not ſo much content as I take in them who are holy among men: No maruaile then that God ſay to vs as here in my Text, <hi>Be ye holy, for I am holy.</hi>
+            </p>
+            <p>Secondly, Holineſſe hath a <hi>Beautie</hi> in it, glori<g ref="char:EOLhyphen"/>ous in the ſight of the Angels and our fellow-Saints: for they hauing Spirituall eies to diſcerne the beautie thereof, are rapt with admiration, and
+<pb n="17" facs="tcp:321:10"/> inflamed with the loue thereof; as knowing, that by this diuine qualitie, we approch to the neereſt, and higheſt participation of the diuine nature. And as they apprehend God to be aboue all infi<g ref="char:EOLhyphen"/>nitely, and incomprehenſibly glorious; So they comprehend no higher Glorie in the creatures, then to be conſpicuous, and viſible Images of the inuiſible Holy God. And therefore the bleſſed Angels and Saints cry out vnto vs, <hi>Be ye holy, for our God and your God is holy.</hi>
+            </p>
+            <p>Thirdly, Holineſſe hath a <hi>Beautie</hi> in it vene<g ref="char:EOLhyphen"/>rable euen in the eies of the wicked and prophane: for there is ingrafted in the Soule of man, euen from the beginning, <hi>Diſcrimen honeſti &amp; turpis:</hi> A naturall light, whereby it apprehendeth e<g ref="char:EOLhyphen"/>uen without a teacher, the difference betweene that which is honeſt, and diſhoneſt: and ſooner can a man pull his heart out of his body, then commaund his heart and inward conſcience, ſeri<g ref="char:EOLhyphen"/>ouſly to approue the turpitude of Sinne, or not to ſee, and acknowledge the <hi>Beautie of Holineſſe.</hi>
+            </p>
+            <p>
+               <hi>Seneca</hi> could ſay, <hi>Virtus in Omnium animos lu<g ref="char:EOLhyphen"/>men ſuum immittit: etiam qui non ſequuntur eam, vident;</hi> Vertue ſheddes forth her light into the ſoules of all. Euen they which liſt not to follow it, cannot but ſee it. There is no Adulterer ſo im<g ref="char:EOLhyphen"/>pure, but his Conſcience ſayes vnto him, The chaſte bodie is better. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Chryſost. Eph.</hi> 4.</p>
+            <p>Such a thing is Holineſſe, the verie enemies
+<pb n="18" facs="tcp:321:11"/> thereof admire it. Such a thing is ſinne, the very followers thereof condemne it. Therefore euen the wicked themſelues ſay to vs, that which they cannot ſay to themſelues, <hi>Be ye holy, for your God is holy.</hi>
+            </p>
+            <p>Fourthly and laſtly, Holineſſe hath in it a <hi>Beau<g ref="char:EOLhyphen"/>ty,</hi> comfortable and full of contentation to our owne ſoules. For though our Conſcience cannot preſent vnto vs an Holineſſe compleat: yet it may and ought to preſent to vs a ſincere endeauour of Holineſſe, doing the good that is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, though not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, accepted of God in Chriſt, though not perfect. And if accepted of God, then alſo ſuch as the conſcience thereof fills our hearts with ad<g ref="char:EOLhyphen"/>mirable and vnſpeakable content.</p>
+            <p>It is reported of Saint <hi>Auguſtine,</hi> that hee did<note place="margin">Poſsid. in vita Auguſt.</note> often and much commend thoſe laſt wordes of Ambroſe; <hi>Non ſic vixi, vt me pudeat inter vos vi<g ref="char:EOLhyphen"/>uere: Sed nec mori timeo, quia bonum habemus Do<g ref="char:EOLhyphen"/>minum.</hi> As if hee had ſaid: The righteouſneſſe of a good Conſcience makes mee not ſhame to liue: and the righteouſneſſe of <hi>Faith</hi> makes mee not feare to die. Euen that Heathen could ſay,</p>
+            <q>
+               <hi>Non niſi ſapienti omnia ſua placent:</hi>
+               <note place="margin">Seneca.</note>
+            </q>
+            <p>The good man onely findeth that at home in himſelfe, which giueth him abundant content: <hi>Stultitia autem laborat faſtidio ſui;</hi> But the wicked man is euer loathing and abhorring himſelfe. I conclude all with that diuine exhortation; <hi>What<g ref="char:EOLhyphen"/>ſoeuer things are true, whatſoeuer things are vene<g ref="char:EOLhyphen"/>rable,</hi>
+               <note place="margin">Philip. 4. 8.</note> 
+               <hi>whatſoeuer things are iuſt, whatſoeuer things
+<pb n="19" facs="tcp:321:11"/> are pure, whatſoeuer things are of good report; if there be any vertue, if there be any praiſe, thinke on theſe things; theſe things doe, and the God of peace ſhall be with you. The God of peace, and the peace of God, euen that diuine peace of a good Conſcience, which paſſeth all vnderſtanding, and can more exhi<g ref="char:EOLhyphen"/>larate our ſoules then all the world beſide.</hi>
+            </p>
+            <p>
+               <hi>Thus God, thus the Angels, and Saints, thus euen the wicked themſelues, thus euen our ſelues, thus all things in Heauen and Earth, within and without vs, doe call and cry vnto vs,</hi>
+            </p>
+            <q>Bee yee holy, for God is holy.</q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
